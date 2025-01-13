@@ -1,3 +1,8 @@
+-=(VBall_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # U.S. Championship V'ball
 
 
