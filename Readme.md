@@ -1,3 +1,8 @@
+-=(VBall_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # U.S. Championship V'ball
 
 
@@ -29,6 +34,7 @@ The default joystick mapping is:
 - Coin B (coins/credits)
 - Flip Screen
 - Demo Sounds
+
 
 
 I would like to thank Alan Steremberg, ElectronAsh, David Shadoff & Chockichoc for their help and support.
